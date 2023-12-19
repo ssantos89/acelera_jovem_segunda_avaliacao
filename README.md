@@ -1,6 +1,6 @@
 # Supermarket Sales Data Analysis
 
-Este repositório contém a análise exploratória de dados do conjunto de dados fornecido no Desafio 2T de Data Science durante o programa Acelera Jovem na Dataside. O dataset é um dataset público extraído do Kaggle. O dataset pode ser encontrado [aqui](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?datasetId=205965).
+Este repositório contém a análise exploratória de dados do conjunto de dados fornecido no Desafio 2T de Data Science durante o programa Acelera Jovem na Dataside. A base de dados é um dataset público extraído do Kaggle. O dataset pode ser encontrado [aqui](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?datasetId=205965).
 
 ## Instruções Gerais
 
